@@ -20,7 +20,7 @@ notebooks/: Contains Jupyter notebooks documenting various stages of the analysi
 05_modeling_pipeline.ipynb: Feature selection, model training, hyperparameter tuning, feature importance analysis, evaluation, and error analysis.
 
 ## Data Source
-The dataset (manufacturing_defect_dataset.csv) used in this repository is sourced from Kaggle and was created by Mr. Rabie El Kharoua. Please visit the Kaggle dataset page for more information.
+The dataset (manufacturing_defect_dataset.csv) used in this repository is sourced from Kaggle and was created by Mr. Rabie El Kharoua. Please visit the Kaggle dataset page for more information (https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset/data). 
 
 ## Dependencies
 To run the Jupyter notebooks, the following Python packages are required:
